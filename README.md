@@ -1,4 +1,10 @@
 ---
+title: "README"
+author: "Gatama"
+date: "2/20/2020"
+output: html_document
+---
+---
 #Peer-graded Assignment: Getting and Cleaning Data Course Project
 ###Important Information
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
