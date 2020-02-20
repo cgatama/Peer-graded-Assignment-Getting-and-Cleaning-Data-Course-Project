@@ -7,8 +7,9 @@ output:
   html_document: default
 ---
 ---
-#Peer-graded Assignment: Getting and Cleaning Data Course Project
-###Important Information
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
+
+### Important Information
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 ## Review criterialess 
